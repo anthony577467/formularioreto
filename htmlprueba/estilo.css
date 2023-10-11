@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+header {
+  background-color: #4e0606;
+  color: #ffffff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+section {
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+input[type="submit"] {
+  background-color: #2a0606;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.formulario {
+  border-color: transparent;
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+}
+img {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+input {
+  font-size: 24px;
+}
+.opcion-radio {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  width: 200px;
+}
